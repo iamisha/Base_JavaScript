@@ -1,0 +1,1 @@
+document.write("write your first code using js ");//external javascript
