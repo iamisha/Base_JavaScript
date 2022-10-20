@@ -33,8 +33,9 @@ varible name = "variable value";
 
 for example:
 
-var fname = "abac";
-var fname = "xyz"; is allowed and it will not throw any error.
+var fname = "abc";
+var fname = "xyz";
+is allowed and it will not throw any error.
 
              but
 
