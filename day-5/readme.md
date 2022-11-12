@@ -12,4 +12,4 @@ Various types of Assignment Operators in JS are given below:-
 
 # JavaScript with Google Chrome Console
 
-code is requested to see from consolejs1.js.
+code is requested to see from consolejs1.js

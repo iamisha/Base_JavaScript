@@ -36,3 +36,5 @@ var x = 20;
 var z;
 (x < 25) ? z = "True" : z = "False";
 document.write(z);
+
+.

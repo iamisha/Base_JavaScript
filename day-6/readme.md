@@ -6,4 +6,4 @@ There are different types of Comparision Operators in JavaScript which are given
 
 # JavaScript If statement
 
-Comparator Operators are used to fulfil the if statement
+Comparator Operators are used to fulfil the if statement.
