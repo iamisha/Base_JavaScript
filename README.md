@@ -39,13 +39,27 @@ what to learn after learning basics of javascript for web development:-
 # Uses of lerning JavaScript in Web Development
 
 -> Form validation
+
 -> Dropdown Menu
+
 -> Maps
+
 -> Chart-Graphs
+
 -> Animated Sliders
+
 -> Pop-up window
+
 -> Audio Players
+
 -> Zoom effect
+
 -> Video player
+
 -> Calender
+
 -> Accordions
+
+                       simple roadmap for the JS beginners
+
+![CHEESE!](js_roadmap.png)
