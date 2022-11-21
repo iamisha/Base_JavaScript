@@ -60,6 +60,6 @@ what to learn after learning basics of javascript for web development:-
 
 -> Accordions
 
-                         simple roadmap for the JS beginners
+                         simple roadmap of JavaScript
 
 ![CHEESE!](js_roadmap.png)
